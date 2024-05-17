@@ -44,5 +44,5 @@ if (x == 1) {
 }else if (x == 4) {
     mult();
 }else if (x > 4) {
-    console.log("Esta operação não existe")
+    console.log("Esta operação não existe!")
 }

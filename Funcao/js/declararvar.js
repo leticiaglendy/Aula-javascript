@@ -9,12 +9,12 @@ const z = 10;
 
 console.log(z);
 
-let soma = x + y + z;
-console.log(soma);
+//let soma = x + y + z;
+//console.log(soma);
 
 console.log("O valor de " + res);
 
-// vantagem do let, posso usar dentro e fora do escopo de variavel sendo local e global
+// vantagem do let: posso usar dentro e fora do escopo de variavel sendo local e global
 
 if(true){
     var a = 20;
